@@ -1,0 +1,2 @@
+# domain-name-extensions
+A list of valid domain name extensions.
